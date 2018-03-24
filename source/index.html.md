@@ -1899,7 +1899,7 @@ For control response (see sessions below):
 + `unsubscribe`
 + `error`
 
-For data response (seed sessions below):
+For data response (see sessions below):
 
 + `s`: snapshot
 + `u`: update
